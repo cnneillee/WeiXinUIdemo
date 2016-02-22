@@ -29,5 +29,5 @@
 
 
 ## v-0.2 实现信息界面的简单文本发送（未实现真正的业务逻辑）
-[animation](https://github.com/neilleecn/WeiXinUIdemo/blob/master/screen.gif)
+![Screenshoot](https://github.com/neilleecn/WeiXinUIdemo/blob/master/screen.gif)
 
